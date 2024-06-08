@@ -1,2 +1,4 @@
 pylint==3.2.3
 pytest==8.2.2
+fastapi==0.111.0
+transformers[torch]==4.41.2
